@@ -66,7 +66,8 @@ module Rack
         '.iso',
         '.flv',
         '.m4v',
-        '.torrent'
+        '.torrent',
+        '.atom'
       ]
 
       @options = options
